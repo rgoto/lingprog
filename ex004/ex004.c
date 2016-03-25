@@ -13,4 +13,3 @@ if (x > y) {
         printf("%d\n", y);
     }
     return 0;
-}
